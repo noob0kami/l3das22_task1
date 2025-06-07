@@ -1,1 +1,2 @@
 # l3das22_task1
+This repository provides a solution for L3DAS22 Task 1, which focuses on 3D speech enhancement using binaural audio recordings. The task aims to extract clean speech from noisy, spatially-distributed audio captured in real-world environments. The project leverages spatial audio features and deep learning models to enhance speech quality and intelligibility. It is an excellent starting point for exploring spatial speech processing and audio denoising techniques.
